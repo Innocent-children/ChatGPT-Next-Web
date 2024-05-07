@@ -1,5 +1,9 @@
 {
     "github": {
         "silent": true
+    },
+    "git": {
+        "enabled": true,
+        "branches": ["dev"]
     }
 }
